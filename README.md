@@ -56,10 +56,18 @@ Sev-B (4 hours, 24/7) [accounting department needs adobe upgrade, broken] -> Jan
 Sev-B/C (2 hours, business hours) [CFO’s laptop seems a bit slow] -> John Doe
 </p>
 <br />
+
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-As the Agents, triage and solve the tickets while commenting updates as you go. 
+As the Agents, triage and solve the tickets. 
 </p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Make sure to update the other Agents & administrator about your progress in solving the ticket. Once the ticket has been resolved, comment that the issue has been resolved.   </p>
 <br />
