@@ -66,7 +66,7 @@ As the Agents, triage and solve the tickets.
 <br />
 
 <p>
-<img src="https://i.imgur.com/8Mki2RV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/wsM3FK7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Make sure to update the other Agents & administrator about your progress in solving the ticket. Once the ticket has been resolved, comment that the issue has been resolved.   </p>
