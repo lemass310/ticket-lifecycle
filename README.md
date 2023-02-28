@@ -30,10 +30,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/K8yybiW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Create Tickets as a customer, for example: 
+Create Tickets as a customer using this customer login link http://localhost/osTicket/, for example: 
 
 Entire mobile/online banking system is down
 
@@ -44,7 +44,7 @@ CFO’s laptop seems a bit slow today
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/6ArvQ9W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 As the Admin assign each ticket to the Agents and select the appropriate ticket severity, for example: 
@@ -58,7 +58,7 @@ Sev-B/C (2 hours, business hours) [CFO’s laptop seems a bit slow] -> John Doe
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/uW76HJ7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 As the Agents, triage and solve the tickets. 
@@ -66,7 +66,7 @@ As the Agents, triage and solve the tickets.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8Mki2RV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Make sure to update the other Agents & administrator about your progress in solving the ticket. Once the ticket has been resolved, comment that the issue has been resolved.   </p>
